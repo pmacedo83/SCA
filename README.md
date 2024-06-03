@@ -1,5 +1,4 @@
-SCA
-Repository of E.E. Simpliciano Campolim de Almeida - Alura Projects
+
 ![](https://komarev.com/ghpvc/?username=pmacedo83&color=006bed)
 
 ## Sobre mim
